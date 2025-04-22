@@ -1,0 +1,266 @@
+<Schedule>
+
+1. ScheduleController
+
+public class ScheduleController {
+    public List<Schedule> listSchedules();
+    public void addSchedule(Schedule schedule);
+    public void editSchedule(Schedule schedule);
+    public void deleteSchedule(int id);
+    public List<Schedule> searchSchedules(String keyword);
+}
+
+2. ScheduleService (Interface)
+
+public interface ScheduleService {
+    List<Schedule> getSchedules();
+    void createSchedule(Schedule schedule);
+    void updateSchedule(Schedule schedule);
+    void removeSchedule(int id);
+    List<Schedule> findSchedules(String keyword);
+}
+
+3. ScheduleServiceImpl
+
+public class ScheduleServiceImpl implements ScheduleService {
+    private ScheduleDao scheduleDao;
+
+    public List<Schedule> getSchedules() { return scheduleDao.selectSchedules(); }
+    public void createSchedule(Schedule schedule) { scheduleDao.insertSchedule(schedule); }
+    public void updateSchedule(Schedule schedule) { scheduleDao.updateSchedule(schedule); }
+    public void removeSchedule(int id) { scheduleDao.deleteSchedule(id); }
+    public List<Schedule> findSchedules(String keyword) { return scheduleDao.searchSchedules(keyword); }
+}
+
+4. ScheduleDao
+
+public class ScheduleDao {
+    List<Schedule> selectSchedules();
+    void insertSchedule(Schedule schedule);
+    void updateSchedule(Schedule schedule);
+    void deleteSchedule(int id);
+    List<Schedule> searchSchedules(String keyword);
+}
+
+5. Schedule (DTO)
+
+public class Schedule {
+    private int id;
+    private String title;
+    private LocalDateTime startTime;
+    private LocalDateTime endTime;
+    private String location;
+    private String color;
+    private int writerId;  // 작성자 (직원 ID)
+}
+
+--------------------------------------------------------------------------------------------------------------
+
+1. CalendarController
+
+public class CalendarController {
+    public List<CalendarView> getMonthlyCalendar(int employeeId, YearMonth month);
+}
+
+2. CalendarService (Interface)
+
+public interface CalendarService {
+    List<CalendarView> generateMonthlyCalendar(int employeeId, YearMonth month);
+}
+
+3. CalendarServiceImpl
+
+public class CalendarServiceImpl implements CalendarService {
+    private ScheduleDao scheduleDao;
+
+    public List<CalendarView> generateMonthlyCalendar(int employeeId, YearMonth month) {
+        List<Schedule> schedules = scheduleDao.selectSchedules(); // 모든 일정 가져오기
+        return convertToCalendarView(schedules, month);
+    }
+
+    private List<CalendarView> convertToCalendarView(List<Schedule> schedules, YearMonth month) {
+        // 날짜별로 그룹핑, 색상 분리 (예: 공지=빨강, 개인=파랑)
+    }
+}
+
+4. CalendarView (DTO)
+
+public class CalendarView {
+    private LocalDate date;
+    private List<Schedule> scheduleList;
+    private String backgroundColor; // 예: "red", "blue"
+}
+
+----------------------------------------------------------------------------------------------------
+
+1. ReminderController
+
+public class ReminderController {
+    public List<Reminder> listReminders();                          // 리마인더 목록 보기
+    public String prepareSmsForm(List<Integer> clientIds);          // 선택된 거래처들로 문자 작성 화면 준비
+    public void sendPromotionalSms(SmsRequest smsRequest);          // 실제 문자 전송
+}
+
+2. ReminderService (Interface)
+
+public interface ReminderService {
+    List<Reminder> getAllReminders();
+    void sendSms(SmsRequest smsRequest);
+}
+
+3. ReminderServiceImpl
+
+public class ReminderServiceImpl implements ReminderService {
+    private ReminderDao reminderDao;
+    private SmsSender smsSender; // 나중에 API 유틸로 분리할 것
+
+    public List<Reminder> getAllReminders() {
+        return reminderDao.selectAll();
+    }
+
+    public void sendSms(SmsRequest smsRequest) {
+        // DB 기록 (필요 시)
+        reminderDao.saveLog(smsRequest);
+        // API 호출
+        smsSender.send(smsRequest);
+    }
+}
+
+4. ReminderDao
+
+public class ReminderDao {
+    List<Reminder> selectAll();                  // 리마인더 목록 조회
+    void saveLog(SmsRequest smsRequest);         // 전송 내역 저장 (선택사항)
+}
+
+5. Reminder (DTO)
+
+public class Reminder {
+    private int id;
+    private int clientId;
+    private String message;
+    private String imageUrl;
+    private LocalDateTime createdAt;
+}
+
+---------------------------------------------------------------------------------------------------------
+
+1. GraphController
+
+public class GraphController {
+    public GraphData getSalesPerformance();   // 부서별 영업 실적 그래프
+    public GraphData getProfitAnalysis();     // 이익 분석 그래프
+    public GraphData getTransactionCount();   // 거래 건수 그래프
+}
+
+2. GraphService (Interface)
+
+public interface GraphService {
+    GraphData generateSalesPerformance();
+    GraphData generateProfitAnalysis();
+    GraphData generateTransactionCount();
+}
+
+3. GraphServiceImpl
+
+public class GraphServiceImpl implements GraphService {
+    private InventoryDao inventoryDao;
+    private ShipmentDao shipmentDao;
+    private StockDao stockDao;
+
+    public GraphData generateSalesPerformance() {
+        // 출고 데이터를 부서별로 집계
+    }
+
+    public GraphData generateProfitAnalysis() {
+        // 입고 vs 출고 가격 차이로 이익 분석
+    }
+
+    public GraphData generateTransactionCount() {
+        // 거래 건수 집계
+    }
+}
+
+4. InventoryDao (입고 DAO)
+
+public class InventoryDao {
+    List<Inventory> getAllInventory(); // 입고 데이터 전체 조회
+}
+
+5. ShipmentDao (출고 DAO)
+
+public class ShipmentDao {
+    List<Shipment> getAllShipments(); // 출고 데이터 전체 조회
+}
+
+6. StockDao (재고 DAO)
+
+public class StockDao {
+    List<Stock> getAllStock(); // 재고 데이터 전체 조회
+}
+
+7. GraphData (DTO)
+
+public class GraphData {
+    private String title;                 // 그래프 제목
+    private List<String> labels;          // X축 (예: 부서명, 날짜 등)
+    private List<Double> values;          // Y축 값들 (예: 금액, 건수 등)
+}
+
+---------------------------------------------------------------------------------------------------------------------
+
+1. DocumentController
+
+public class DocumentController {
+    public List<Document> listDocuments(String type, String keyword);     // 문서 목록/검색
+    public String showDocumentForm(String type);                          // 등록 화면 이동
+    public void registerDocument(DocumentForm form, MultipartFile file);  // 문서 등록 + PDF 업로드
+}
+
+2. DocumentService (Interface)
+
+public interface DocumentService {
+    List<Document> findDocuments(String type, String keyword);
+    void saveDocument(DocumentForm form, MultipartFile file);
+}
+
+3. DocumentServiceImpl
+
+public class DocumentServiceImpl implements DocumentService {
+    private DocumentDao documentDao;
+    private FileStorageUtil fileStorageUtil;
+
+    public List<Document> findDocuments(String type, String keyword) {
+        return documentDao.searchByTypeAndKeyword(type, keyword);
+    }
+
+    public void saveDocument(DocumentForm form, MultipartFile file) {
+        String filePath = fileStorageUtil.save(file);
+        Document document = Document.fromForm(form, filePath);
+        documentDao.insert(document);
+    }
+}
+
+4. DocumentDao
+
+public class DocumentDao {
+    List<Document> searchByTypeAndKeyword(String type, String keyword);
+    void insert(Document document);
+}
+
+6. Document (DB DTO)
+
+public class Document {
+    private int id;
+    private String type;
+    private String filePath;
+    private String title;
+    private String clientName;
+    private LocalDate issueDate;
+    private String customFields;     // 계산서/영수증별 고유 정보 (권, 호, 금액 등)
+    private LocalDateTime createdAt;
+
+    public static Document fromForm(DocumentForm form, String filePath) {
+        // form 정보를 기반으로 Document 생성
+    }
+}

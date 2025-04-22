@@ -1,0 +1,446 @@
+[09:16:36][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[09:16:37][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 646 ms
+[09:16:37][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[09:16:38][INFO ][FrameworkServlet.java: 554] - Completed initialization in 796 ms
+[09:16:38][INFO ][BoardController.java: 33] - btop3.do run..........
+[09:16:38][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[09:16:38][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[09:16:38][INFO ][BoardController.java: 37] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[09:16:45][INFO ][BoardController.java: 33] - btop3.do run..........
+[09:16:45][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[09:16:45][INFO ][BoardController.java: 37] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[09:16:45][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[09:16:46][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[09:16:46][INFO ][BoardController.java: 33] - btop3.do run..........
+[09:16:46][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[09:16:46][INFO ][BoardController.java: 37] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[09:34:05][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[09:34:05][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 582 ms
+[09:34:05][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[09:34:06][INFO ][FrameworkServlet.java: 554] - Completed initialization in 795 ms
+[09:56:02][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[09:56:03][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 652 ms
+[09:56:03][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[09:56:04][INFO ][FrameworkServlet.java: 554] - Completed initialization in 937 ms
+[10:14:10][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[10:14:10][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 588 ms
+[10:14:10][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[10:14:11][INFO ][FrameworkServlet.java: 554] - Completed initialization in 851 ms
+[10:17:13][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[10:17:13][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 467 ms
+[10:17:13][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[10:17:14][INFO ][FrameworkServlet.java: 554] - Completed initialization in 658 ms
+[10:19:33][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[10:19:33][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 431 ms
+[10:19:33][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[10:19:34][INFO ][FrameworkServlet.java: 554] - Completed initialization in 706 ms
+[10:21:10][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[10:21:11][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 409 ms
+[10:21:11][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[10:21:11][INFO ][FrameworkServlet.java: 554] - Completed initialization in 605 ms
+[10:41:23][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[10:41:24][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 427 ms
+[10:41:24][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[10:41:24][INFO ][FrameworkServlet.java: 554] - Completed initialization in 644 ms
+[10:41:26][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[10:41:27][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 588 ms
+[10:41:27][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[10:41:28][INFO ][FrameworkServlet.java: 554] - Completed initialization in 816 ms
+[10:41:35][INFO ][BoardController.java: 33] - btop3.do run..........
+[10:41:35][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[10:41:36][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[10:41:36][INFO ][BoardController.java: 37] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[10:41:37][INFO ][BoardController.java: 33] - btop3.do run..........
+[10:41:37][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[10:41:37][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[10:41:37][INFO ][BoardController.java: 37] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[10:41:46][INFO ][MemberController.java: 93] - login.do : Member [userId=aaaaa, userPwd=aqa, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[10:41:46][INFO ][BoardController.java: 33] - btop3.do run..........
+[10:41:46][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[10:41:46][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[10:41:46][INFO ][BoardController.java: 37] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[10:51:53][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[10:51:54][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 489 ms
+[10:51:54][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[10:51:55][INFO ][FrameworkServlet.java: 554] - Completed initialization in 714 ms
+[10:52:06][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[10:52:06][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 426 ms
+[10:52:06][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[10:52:07][INFO ][FrameworkServlet.java: 554] - Completed initialization in 679 ms
+[10:53:01][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[10:53:01][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 438 ms
+[10:53:01][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[10:53:02][INFO ][FrameworkServlet.java: 554] - Completed initialization in 715 ms
+[10:59:15][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[10:59:15][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 418 ms
+[10:59:15][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[10:59:16][INFO ][FrameworkServlet.java: 554] - Completed initialization in 637 ms
+[10:59:59][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[10:59:59][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 439 ms
+[10:59:59][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[11:00:00][INFO ][FrameworkServlet.java: 554] - Completed initialization in 641 ms
+[11:02:19][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[11:02:20][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 429 ms
+[11:02:20][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[11:02:20][INFO ][FrameworkServlet.java: 554] - Completed initialization in 614 ms
+[11:02:42][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[11:02:43][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 456 ms
+[11:02:43][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[11:02:43][INFO ][FrameworkServlet.java: 554] - Completed initialization in 697 ms
+[11:04:00][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[11:04:00][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 625 ms
+[11:04:00][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[11:04:01][INFO ][FrameworkServlet.java: 554] - Completed initialization in 815 ms
+[11:04:10][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[11:04:11][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 638 ms
+[11:04:11][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[11:04:12][INFO ][FrameworkServlet.java: 554] - Completed initialization in 823 ms
+[11:04:30][INFO ][MemberController.java: 94] - login.do : Member [userId=aaaaa, userPwd=aqa, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[11:04:34][INFO ][BoardController.java: 33] - btop3.do run..........
+[11:04:34][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[11:04:34][INFO ][BoardController.java: 37] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[11:04:34][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[11:04:40][INFO ][MemberController.java: 94] - login.do : Member [userId=admin, userPwd=, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[11:04:46][INFO ][MemberController.java: 94] - login.do : Member [userId=admin, userPwd=admin, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[11:04:46][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[11:04:46][INFO ][BoardController.java: 33] - btop3.do run..........
+[11:04:46][INFO ][BoardController.java: 37] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[11:04:46][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[11:04:51][INFO ][BoardController.java: 33] - btop3.do run..........
+[11:04:51][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[11:04:51][INFO ][BoardController.java: 37] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[11:04:51][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[11:04:56][INFO ][MemberController.java: 94] - login.do : Member [userId=aaaaa, userPwd=aqa, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[11:04:59][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[11:04:59][INFO ][BoardController.java: 33] - btop3.do run..........
+[11:04:59][INFO ][BoardController.java: 37] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[11:04:59][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[11:05:11][INFO ][MemberController.java: 94] - login.do : Member [userId=aaaaa, userPwd=aqa, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[11:05:15][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[11:05:15][INFO ][BoardController.java: 33] - btop3.do run..........
+[11:05:15][INFO ][BoardController.java: 37] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[11:05:15][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[11:10:08][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[11:10:08][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 473 ms
+[11:10:08][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[11:10:09][INFO ][FrameworkServlet.java: 554] - Completed initialization in 662 ms
+[11:10:23][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[11:10:24][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 618 ms
+[11:10:24][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[11:10:25][INFO ][FrameworkServlet.java: 554] - Completed initialization in 934 ms
+[11:10:31][INFO ][BoardController.java: 33] - btop3.do run..........
+[11:10:31][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[11:10:32][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[11:10:32][INFO ][BoardController.java: 37] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[11:11:43][INFO ][MemberController.java: 180] - enroll.do : Member [userId=aaaaa, userPwd=aqa, userName=홍길동, gender=M, age=20, phone=010-1234-5678, email=Hong45@test.org, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[11:22:07][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[11:22:08][WARN ][AbstractApplicationContext.java: 635] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSession' defined in class path resource [root-context.xml]: Failed to parse config resource: class path resource [mybatis-config.xml]
+[11:22:08][ERROR][ContextLoader.java: 294] - Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSession' defined in class path resource [root-context.xml]: Failed to parse config resource: class path resource [mybatis-config.xml]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1812)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:601)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:339)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:347)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1149)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1121)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1056)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:987)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:394)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:274)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:126)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4049)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4477)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3261)
+	at org.apache.catalina.loader.WebappLoader.backgroundProcess(WebappLoader.java:234)
+	at org.apache.catalina.core.StandardContext.backgroundProcess(StandardContext.java:4832)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1172)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1176)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1176)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1154)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:358)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.io.IOException: Failed to parse config resource: class path resource [mybatis-config.xml]
+	at org.mybatis.spring.SqlSessionFactoryBean.buildSqlSessionFactory(SqlSessionFactoryBean.java:672)
+	at org.mybatis.spring.SqlSessionFactoryBean.afterPropertiesSet(SqlSessionFactoryBean.java:572)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1859)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1808)
+	... 31 more
+Caused by: org.apache.ibatis.builder.BuilderException: Error parsing SQL Mapper Configuration. Cause: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. The XML location is 'mappers/member-mapper.xml'. Cause: org.apache.ibatis.builder.BuilderException: Parsing error was found in mapping #{}.  Check syntax #{property|(expression), var1=value1, var2=value2, ...} 
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.parseConfiguration(XMLConfigBuilder.java:133)
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.parse(XMLConfigBuilder.java:110)
+	at org.mybatis.spring.SqlSessionFactoryBean.buildSqlSessionFactory(SqlSessionFactoryBean.java:669)
+	... 34 more
+Caused by: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. The XML location is 'mappers/member-mapper.xml'. Cause: org.apache.ibatis.builder.BuilderException: Parsing error was found in mapping #{}.  Check syntax #{property|(expression), var1=value1, var2=value2, ...} 
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.configurationElement(XMLMapperBuilder.java:125)
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.parse(XMLMapperBuilder.java:98)
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.mappersElement(XMLConfigBuilder.java:405)
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.parseConfiguration(XMLConfigBuilder.java:131)
+	... 36 more
+Caused by: org.apache.ibatis.builder.BuilderException: Parsing error was found in mapping #{}.  Check syntax #{property|(expression), var1=value1, var2=value2, ...} 
+	at org.apache.ibatis.builder.SqlSourceBuilder$ParameterMappingTokenHandler.parseParameterMapping(SqlSourceBuilder.java:156)
+	at org.apache.ibatis.builder.SqlSourceBuilder$ParameterMappingTokenHandler.buildParameterMapping(SqlSourceBuilder.java:95)
+	at org.apache.ibatis.builder.SqlSourceBuilder$ParameterMappingTokenHandler.handleToken(SqlSourceBuilder.java:90)
+	at org.apache.ibatis.parsing.GenericTokenParser.parse(GenericTokenParser.java:76)
+	at org.apache.ibatis.builder.SqlSourceBuilder.parse(SqlSourceBuilder.java:52)
+	at org.apache.ibatis.scripting.defaults.RawSqlSource.<init>(RawSqlSource.java:46)
+	at org.apache.ibatis.scripting.defaults.RawSqlSource.<init>(RawSqlSource.java:40)
+	at org.apache.ibatis.scripting.xmltags.XMLScriptBuilder.parseScriptNode(XMLScriptBuilder.java:71)
+	at org.apache.ibatis.scripting.xmltags.XMLLanguageDriver.createSqlSource(XMLLanguageDriver.java:45)
+	at org.apache.ibatis.builder.xml.XMLStatementBuilder.parseStatementNode(XMLStatementBuilder.java:98)
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.buildStatementFromContext(XMLMapperBuilder.java:141)
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.buildStatementFromContext(XMLMapperBuilder.java:133)
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.configurationElement(XMLMapperBuilder.java:123)
+	... 39 more
+Caused by: java.lang.StringIndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)
+	at java.base/java.lang.String.checkIndex(String.java:4832)
+	at java.base/java.lang.StringLatin1.charAt(StringLatin1.java:46)
+	at java.base/java.lang.String.charAt(String.java:1555)
+	at org.apache.ibatis.builder.ParameterExpression.parse(ParameterExpression.java:44)
+	at org.apache.ibatis.builder.ParameterExpression.<init>(ParameterExpression.java:39)
+	at org.apache.ibatis.builder.SqlSourceBuilder$ParameterMappingTokenHandler.parseParameterMapping(SqlSourceBuilder.java:152)
+	... 51 more
+[11:41:28][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[11:41:29][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 585 ms
+[11:41:29][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[11:41:30][INFO ][FrameworkServlet.java: 554] - Completed initialization in 798 ms
+[11:42:34][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[11:42:35][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 434 ms
+[11:42:35][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[11:42:35][INFO ][FrameworkServlet.java: 554] - Completed initialization in 631 ms
+[11:43:51][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[11:43:51][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 438 ms
+[11:43:51][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[11:43:52][INFO ][FrameworkServlet.java: 554] - Completed initialization in 665 ms
+[11:47:25][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[11:47:25][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 420 ms
+[11:47:25][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[11:47:26][INFO ][FrameworkServlet.java: 554] - Completed initialization in 598 ms
+[11:47:37][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[11:47:38][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 415 ms
+[11:47:38][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[11:47:38][INFO ][FrameworkServlet.java: 554] - Completed initialization in 670 ms
+[11:47:45][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[11:47:45][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 599 ms
+[11:47:45][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[11:47:46][INFO ][FrameworkServlet.java: 554] - Completed initialization in 829 ms
+[11:47:58][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[11:47:58][INFO ][BoardController.java: 33] - btop3.do run..........
+[11:47:58][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[11:47:58][INFO ][BoardController.java: 37] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[11:49:13][INFO ][MemberController.java: 180] - enroll.do : Member [userId=aaaaa, userPwd=aqa, userName=홍길동, gender=M, age=20, phone=010-1234-5678, email=Hong45@test.org, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[11:49:18][INFO ][MemberController.java: 94] - login.do : Member [userId=aaaaa, userPwd=aqa, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[11:49:18][INFO ][BoardController.java: 33] - btop3.do run..........
+[11:49:18][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[11:49:18][INFO ][BoardController.java: 37] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[11:49:18][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[11:49:47][INFO ][BoardController.java: 33] - btop3.do run..........
+[11:49:47][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[11:49:47][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[11:49:47][INFO ][BoardController.java: 37] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[12:02:53][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[12:02:53][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 475 ms
+[12:02:54][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[12:02:54][INFO ][FrameworkServlet.java: 554] - Completed initialization in 744 ms
+[12:11:04][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[12:11:05][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 455 ms
+[12:11:05][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[12:11:05][INFO ][FrameworkServlet.java: 554] - Completed initialization in 682 ms
+[12:11:07][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[12:11:08][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 587 ms
+[12:11:08][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[12:11:09][INFO ][FrameworkServlet.java: 554] - Completed initialization in 762 ms
+[12:11:19][INFO ][BoardController.java: 33] - btop3.do run..........
+[12:11:19][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[12:11:19][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[12:11:19][INFO ][BoardController.java: 37] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[12:12:44][INFO ][MemberController.java: 201] - enroll.do : Member [userId=asas, userPwd=asas, userName=김수한무, gender=M, age=35, phone=010-4568-7896, email=Kim35@test.org, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[12:12:45][INFO ][MemberController.java: 205] - 암호화 패스워드 : $2a$10$W/g50ECf5YuZmB9PIxfS/.g/8CNgeedfWk7NmE5MzaOHK7ZtzuEZa
+[12:12:56][INFO ][MemberController.java: 98] - login.do : Member [userId=asas, userPwd=asas, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[12:12:59][INFO ][BoardController.java: 33] - btop3.do run..........
+[12:12:59][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[12:12:59][INFO ][BoardController.java: 37] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[12:12:59][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[12:35:59][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[12:36:00][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 488 ms
+[12:36:00][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[12:36:00][INFO ][FrameworkServlet.java: 554] - Completed initialization in 684 ms
+[12:36:54][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[12:36:54][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 434 ms
+[12:36:54][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[12:36:55][INFO ][FrameworkServlet.java: 554] - Completed initialization in 644 ms
+[12:37:49][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[12:37:49][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 422 ms
+[12:37:49][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[12:37:50][INFO ][FrameworkServlet.java: 554] - Completed initialization in 651 ms
+[12:39:48][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[12:39:48][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 433 ms
+[12:39:48][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[12:39:49][INFO ][FrameworkServlet.java: 554] - Completed initialization in 677 ms
+[12:41:04][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[12:41:04][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 436 ms
+[12:41:04][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[12:41:05][INFO ][FrameworkServlet.java: 554] - Completed initialization in 658 ms
+[12:43:24][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[12:43:24][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 447 ms
+[12:43:25][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[12:43:25][INFO ][FrameworkServlet.java: 554] - Completed initialization in 612 ms
+[12:45:26][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[12:45:26][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 630 ms
+[12:45:26][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[12:45:27][INFO ][FrameworkServlet.java: 554] - Completed initialization in 919 ms
+[12:45:33][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[12:45:33][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 634 ms
+[12:45:33][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[12:45:34][INFO ][FrameworkServlet.java: 554] - Completed initialization in 839 ms
+[12:45:46][INFO ][BoardController.java: 33] - btop3.do run..........
+[12:45:46][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[12:45:46][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[12:45:46][INFO ][BoardController.java: 37] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[12:45:57][INFO ][MemberController.java: 120] - login.do : Member [userId=asas, userPwd=$2a$10$W/g50ECf5YuZmB9PIxfS/.g/8CNgeedfWk7NmE5MzaOHK7ZtzuEZa, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[12:46:06][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[12:46:06][INFO ][BoardController.java: 33] - btop3.do run..........
+[12:46:06][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[12:46:06][INFO ][BoardController.java: 37] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[12:46:34][INFO ][MemberController.java: 120] - login.do : Member [userId=asas, userPwd=asas, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[12:46:34][INFO ][BoardController.java: 33] - btop3.do run..........
+[12:46:34][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[12:46:34][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[12:46:34][INFO ][BoardController.java: 37] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[12:50:52][INFO ][BoardController.java: 33] - btop3.do run..........
+[12:50:52][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[12:50:52][INFO ][BoardController.java: 37] - btop3.do list : []
+[12:50:52][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[12:51:52][INFO ][MemberController.java: 228] - enroll.do : Member [userId=admin, userPwd=admin, userName=관리자, gender=M, age=35, phone=010-1111-9999, email=admin@ncs.kr, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[12:51:52][INFO ][MemberController.java: 232] - 암호화 패스워드 : $2a$10$pDdPPqqyDkui7FRy1aCF0eqlrBQw.MhsLxPEnYCcLdwIpwAmxOVs6
+[12:52:02][INFO ][MemberController.java: 120] - login.do : Member [userId=admin, userPwd=admin, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[12:52:02][INFO ][BoardController.java: 33] - btop3.do run..........
+[12:52:02][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[12:52:02][INFO ][BoardController.java: 37] - btop3.do list : []
+[12:52:02][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[12:52:03][INFO ][BoardController.java: 33] - btop3.do run..........
+[12:52:03][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[12:52:03][INFO ][BoardController.java: 37] - btop3.do list : []
+[12:52:03][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[12:52:37][INFO ][MemberController.java: 228] - enroll.do : Member [userId=user01, userPwd=pass01, userName=홍길동, gender=M, age=25, phone=010-1234-5678, email=hong1234@ncs.kr, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[12:52:37][INFO ][MemberController.java: 232] - 암호화 패스워드 : $2a$10$F80UWmOXtNvWFi.U/7fpx.GLbUd8I5ZolGhD7.uO5WChPkzcTLSN6
+[12:52:44][INFO ][MemberController.java: 120] - login.do : Member [userId=user01, userPwd=pass01, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[12:52:44][INFO ][BoardController.java: 33] - btop3.do run..........
+[12:52:44][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[12:52:44][INFO ][BoardController.java: 37] - btop3.do list : []
+[12:52:44][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[12:52:46][INFO ][BoardController.java: 33] - btop3.do run..........
+[12:52:46][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[12:52:46][INFO ][BoardController.java: 37] - btop3.do list : []
+[12:52:46][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[12:53:14][INFO ][MemberController.java: 228] - enroll.do : Member [userId=user02, userPwd=pass02, userName=신사임당, gender=F, age=45, phone=010-4545-9999, email=dano99@ncs.kr, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[12:53:14][INFO ][MemberController.java: 232] - 암호화 패스워드 : $2a$10$XKl/NyRLmfyqobNmKEoNY.asccGWWnWEhrI6YAka2LgYAxoYDmx1q
+[12:53:19][INFO ][MemberController.java: 120] - login.do : Member [userId=user02, userPwd=pass02, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[12:53:19][INFO ][BoardController.java: 33] - btop3.do run..........
+[12:53:19][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[12:53:19][INFO ][BoardController.java: 37] - btop3.do list : []
+[12:53:19][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[12:53:40][INFO ][BoardController.java: 33] - btop3.do run..........
+[12:53:40][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[12:53:40][INFO ][BoardController.java: 37] - btop3.do list : []
+[12:53:40][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[12:53:47][INFO ][MemberController.java: 120] - login.do : Member [userId=admin, userPwd=admin, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[12:53:47][INFO ][BoardController.java: 33] - btop3.do run..........
+[12:53:47][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[12:53:47][INFO ][BoardController.java: 37] - btop3.do list : []
+[12:53:47][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[12:56:48][INFO ][BoardController.java: 33] - btop3.do run..........
+[12:56:48][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[12:56:48][INFO ][BoardController.java: 37] - btop3.do list : []
+[12:56:48][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[12:57:36][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[12:57:36][INFO ][BoardController.java: 33] - btop3.do run..........
+[12:57:36][INFO ][BoardController.java: 37] - btop3.do list : []
+[12:57:36][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[12:57:37][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[12:57:37][INFO ][BoardController.java: 33] - btop3.do run..........
+[12:57:37][INFO ][BoardController.java: 37] - btop3.do list : []
+[12:57:37][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[12:58:35][INFO ][MemberController.java: 120] - login.do : Member [userId=admin, userPwd=admin, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[12:58:35][INFO ][BoardController.java: 33] - btop3.do run..........
+[12:58:35][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[12:58:35][INFO ][BoardController.java: 37] - btop3.do list : []
+[12:58:35][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-01, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[13:06:14][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[13:06:14][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 577 ms
+[13:06:14][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[13:06:15][INFO ][FrameworkServlet.java: 554] - Completed initialization in 905 ms
+[13:06:18][INFO ][MemberController.java: 120] - login.do : Member [userId=admin, userPwd=admin, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[13:06:19][INFO ][BoardController.java: 33] - btop3.do run..........
+[13:06:19][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[13:06:19][INFO ][BoardController.java: 37] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[13:06:19][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[13:06:59][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[13:06:59][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 477 ms
+[13:06:59][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[13:07:00][INFO ][FrameworkServlet.java: 554] - Completed initialization in 690 ms
+[13:12:09][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[13:12:10][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 431 ms
+[13:12:10][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[13:12:10][INFO ][FrameworkServlet.java: 554] - Completed initialization in 644 ms
+[14:46:48][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[14:46:48][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 596 ms
+[14:46:48][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[14:46:49][INFO ][FrameworkServlet.java: 554] - Completed initialization in 851 ms
+[14:47:53][INFO ][MemberController.java: 124] - login.do : Member [userId=admin, userPwd=admin, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[14:47:53][INFO ][BoardController.java: 33] - btop3.do run..........
+[14:47:53][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[14:47:53][INFO ][BoardController.java: 37] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[14:47:53][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[14:47:55][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[14:47:55][INFO ][BoardController.java: 33] - btop3.do run..........
+[14:47:55][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[14:47:55][INFO ][BoardController.java: 37] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[14:47:56][INFO ][BoardController.java: 33] - btop3.do run..........
+[14:47:56][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[14:47:56][INFO ][BoardController.java: 37] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[14:47:56][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[14:49:12][INFO ][MemberController.java: 257] - enroll.do : Member [userId=user03, userPwd=pass03, userName=강슬기, gender=F, age=27, phone=010-4742-8531, email=red@test.org, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[14:49:12][INFO ][MemberController.java: 261] - 암호화 패스워드 : $2a$10$rLOJQiHhQuVmy7IYqFZpa.jGVZj4/I2Xc0SUA5/jt.IwvvA.od3fu
+[14:49:12][INFO ][MemberController.java: 267] - savePath : D:\spring_workspace\first\src\main\webapp\resources\photoFiles
+[14:49:18][INFO ][MemberController.java: 124] - login.do : Member [userId=user03, userPwd=pass03, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[14:49:19][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[14:49:19][INFO ][BoardController.java: 33] - btop3.do run..........
+[14:49:19][INFO ][BoardController.java: 37] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[14:49:19][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[14:54:12][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[14:54:12][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 472 ms
+[14:54:12][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[14:54:13][INFO ][FrameworkServlet.java: 554] - Completed initialization in 706 ms
+[15:17:37][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[15:17:38][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 609 ms
+[15:17:38][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[15:17:39][INFO ][FrameworkServlet.java: 554] - Completed initialization in 837 ms
+[15:18:09][INFO ][BoardController.java: 33] - btop3.do run..........
+[15:18:09][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[15:18:10][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[15:18:10][INFO ][BoardController.java: 37] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[15:18:20][INFO ][NoticeController.java: 40] - ntop3.do run.....
+[15:18:20][INFO ][BoardController.java: 33] - btop3.do run..........
+[15:18:20][INFO ][BoardController.java: 37] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[15:18:20][INFO ][NoticeController.java: 44] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[15:20:21][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[15:20:21][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 571 ms
+[15:20:21][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[15:20:22][INFO ][FrameworkServlet.java: 554] - Completed initialization in 821 ms
